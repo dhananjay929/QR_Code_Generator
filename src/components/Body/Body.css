@@ -1,0 +1,64 @@
+.body {
+    background-color: rgb(234, 98, 234);
+    }
+    
+    .bodyTextToQRtext {
+      border: solid 2px;
+      height: 45px;
+      width: 300px;
+      margin-top: 30px;
+      border-radius: 5%;
+      caret-color: rgb(221, 0, 0);
+      background-color: rgb(59, 48, 48);
+      font-style: italic;
+      color: rgb(141, 144, 144);
+      font-size: large;
+    }
+    
+    .bodyTextToQRbutton {
+      margin-top: 30px;
+      background-color: rgb(110, 110, 66);
+      height: 50px;
+      width: 120px;
+      font-weight: 500;
+      font-size: 17px;
+      color: rgb(202, 202, 202);
+      border-radius: 10%;
+    }
+    
+    .bodyTextToQRbutton:hover {
+      color: red;
+      background-color: rgb(214, 214, 95);
+    }
+    
+    .bodyContainer {
+      border: 5px dashed rgb(124, 0, 0);
+      margin-top: 80px;
+      height: 60vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .space{
+      padding: 20px;
+    }
+    
+    .download {
+      height: 40px;
+      width: 100px;
+      background-color: rgb(8, 8, 93);
+      border-radius: 20px 10px;
+      color: rgb(245, 196, 131);
+      margin-top: 20px;
+    }
+    
+    .download:hover {
+      color: rgb(8, 8, 93);
+      background-color: rgb(149, 192, 230);
+    }
+    
+    .qrcode {
+      margin-top: 50px;
+    }
+    
+    

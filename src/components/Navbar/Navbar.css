@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    background-color: rgb(162, 46, 162);
+    position: relative;
+  }
+  
+  .navbarText {
+    cursor: pointer;
+    font-family: cursive;
+    color: red;
+    text-decoration:underline;
+  }
+  
